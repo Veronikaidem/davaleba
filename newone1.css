@@ -42,26 +42,44 @@ header ul{
     top: 12px;
     font-size: 24px;
 }
-    
+
 .pirveli{
     width: 300px;
     height: 271px;
     position: relative;
     left: 109px;
     top: 109px;
-    /* background-color: blue; */
+     background-color: blue; 
     border: 2px solid red;
     background-image: url(images/sound.png);
     background-size: 25%;
     background-repeat: repeat-x;
-    background-position: left;
+    background-position: left;  
+}
+    
+.meore, .mesame, .meotxe, .mexute, .meekvse, .meshvide, .merve, .mecxre, .meate, .termeti, .tormeti{
+    width: 300px;
+    height: 271px;
+    /* position: relative;
+    left: 109px;
+    top: 109px; */
+     background-color: blue; 
+    border: 2px solid red;
+    display: inline-block;
+  margin: 10px;
+  text-align: center;
+    /* background-image: url(images/sound.png);
+    background-size: 25%;
+    background-repeat: repeat-x;
+    background-position: left; */
+    
 
 }
 .mowoneba{
     width: 50px;
     height: 50px;
-    position: relative;
-    left: 249px;
+    position: absolute;
+    right: 0px;
     }
 
 .saxeli{
@@ -78,7 +96,7 @@ header ul{
     height: 16px;
     font-size: 14px;
     position: relative;
-    top: 125px;
+    bottom: 125px;
     left: 5px;
 }
 

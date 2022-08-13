@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 94px;
+    background-color: #000;
+}
+
+header img{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 12px;
+    left: 70px;
+    float: left;
+}
+
+header ul{
+    width: 110px;
+    height: 21px;
+    color: #fff;
+    position: relative;
+    left: 271px;
+    top: 21px;
+    margin-right: 2px; ;
+    float: left;
+    font-size: 18px;
+   
+   
+}
+
+
+
+
+div{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(242, 242, 245);
+    margin: 50px;
+   float: left;
+   border: 2px solid #000;
+   background-image: url(images/sound.png);
+   background-size: 25%;
+   background-repeat: repeat-x;
+   background-position: center;
+   /* position: relative; */
+   
+}
+.foto{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.lnk{
+    width: 97px;
+    height: 14px;
+    font-size: 12px;
+    background-color: aqua;
+    position: relative;
+    left: -220px;
+    top: 320px;
+}
+ 
+
+p{
+    position: relative;
+    top: 160px;
+    left: 20px;
+}
+
+h2{
+    
+    position: relative;
+    top: 180px;
+    left: 20px;
+}
+
+footer{
+    width: 100%;
+    height: 354px;
+    background-color: #000;
+    display: inline-block;
+   padding: 0px;
+   align-items: center;
+
+
+}
+
+
+.vava {
+    width: 150px;
+    height: 150px;
+   position: relative;
+   left: 600px;
+   top: 60px;
+
+}
+
+.vavava{
+    width: 200px;
+    height: 63px;
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 175px;
+    display: inline-block;
+    margin-left: 450px;
+    
+
+}
+h3{
+   
+    width: 126px;
+    text-align: start;
+    margin-left: 110px;
+    margin-top: 51px;
+
+    
+    
+ }
+.linia{
+    padding-top: 20px;
+} 
+
+.first{
+    width: 280px;
+    height: 361px;
+    border: none;
+   float: left;
+   padding: 15px;
+   margin-left: 109px;
+   font-size: 18px;
+ 
+}
+
+h2{
+    padding-bottom: 35px;
+}
+
+.music{
+    width: 300px;
+    height: 250px;
+    background-color: blue;
+    display: inline-block;
+    margin-top: 282px;
+    margin-right: 100px;
+     background-image: url(images/sound.png);
+    background-size: 25%;
+   background-repeat: repeat-x; 
+   background-position: center;
+  
+   
+  
+}
+
+.secondbox{
+    width: 280px;
+    height: 361px;
+    border: none;
+   float: left;
+   display: block
+   margin: 5px;
+
+} 
